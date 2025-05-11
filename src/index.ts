@@ -73,7 +73,7 @@ const resolvers = {
 
 			// 构建豆包 API 请求体
 			const doubaoApiRequest: DoubaoApiRequest = {
-				model: 'doubao-1-5-thinking-pro-250415',
+				model: 'doubao-1-5-pro-32k-250115',
 				messages: [
 					{
 						role: 'system',
